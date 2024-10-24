@@ -1,0 +1,1 @@
+data,Numero palete,Referencia,Numero Cliente,??,Referencia Cliente 1,Referencia Cliente 2,Marca,Largura,??,Espessura,Peso Liquido,Metros,ref?,Peso Bruto,Tara,Encomenda Comercial,Lote,Numero Bobine,??,??,??,Peso Liquido 2,??,Artigo

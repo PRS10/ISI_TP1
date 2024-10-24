@@ -1,0 +1,8 @@
+<!ELEMENT Equipas (Equipa+)>
+<!ATTLIST Equipas eq CDATA #REQUIRED>
+<!ELEMENT Equipa (Operadores)>
+<!ATTLIST Equipa id CDATA #REQUIRED>
+<!ELEMENT Operadores (Operador+)>
+<!ELEMENT Operador (Nome)>
+<!ATTLIST Operador id CDATA #REQUIRED>
+<!ELEMENT Nome (#PCDATA)>

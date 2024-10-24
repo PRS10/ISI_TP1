@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Equipas SYSTEM "equipas.dtd">
+
+<Equipas eq="equipas">
+    <Equipa id="1">
+        <Operadores>
+            <Operador id="001">
+                <Nome>Francisco</Nome>
+            </Operador>
+            <Operador id="002">
+                <Nome>Mauro</Nome>
+            </Operador>
+            <Operador id="003">
+                <Nome>Ricardo</Nome>
+            </Operador>
+        </Operadores>
+    </Equipa>
+    <Equipa id="2">
+        <Operadores>
+            <Operador id="004">
+                <Nome>Sergio</Nome>
+            </Operador>
+            <Operador id="005">
+                <Nome>Pedro</Nome>
+            </Operador>
+            <Operador id="006">
+                <Nome>Monteiro</Nome>
+            </Operador>
+        </Operadores>
+    </Equipa>
+    <Equipa id="3">
+        <Operadores>
+            <Operador id="007">
+                <Nome>Paulo</Nome>
+            </Operador>
+            <Operador id="008">
+                <Nome>Bruno</Nome>
+            </Operador>
+            <Operador id="009">
+                <Nome>Junior</Nome>
+            </Operador>
+        </Operadores>
+    </Equipa>
+    <Equipa id="4">
+        <Operadores>
+            <Operador id="010">
+                <Nome>Ventura</Nome>
+            </Operador>
+            <Operador id="011">
+                <Nome>Jorge</Nome>
+            </Operador>
+            <Operador id="012">
+                <Nome>Nuno</Nome>
+            </Operador>
+        </Operadores>
+    </Equipa>
+</Equipas>
