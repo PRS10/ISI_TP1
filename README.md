@@ -16,6 +16,7 @@ Demonstrar como a aplicação de processos ETL pode melhorar a análise e utiliz
 - **CSV, Excel, JSON, XML**: Formatos de ficheiros de entrada.
 - **Google Sheets**: Integração para sincronização de dados.
 - **REST API**: Utilizada para obter dados externos via GET Request.
+- **Base de dados**: Sincronização com base de dados SQL server.
 - **Email**: Envio de alertas automáticos.
 
 ## Fluxo ETL
